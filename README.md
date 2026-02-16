@@ -1,40 +1,76 @@
-hi, i'm [Ebisa Dugo](https://portfolio-ead8.vercel.app/),computer science graduate with a passion for problem-solving through software development. I love building software that automates tasks and working with technologies like Next.js. I also prioritize clean code, system design, and delivering high-quality work. My goal is to be a passionate problem solver through technology.
+<h1 align="center">Hi 👋, I'm Ebisa Dugo</h1>
+<h3 align="center">Software Engineer • Problem Solver • Next.js Specialist</h3>
 
-<!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
-- 💼 any freelance work? do reach, [email](mailto:eabisaadw@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+<p align="center">
+  <a href="https://portfolio-ead8.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:eabisaadw@gmail.com">📩 Email</a>
+</p>
 
-**languages and tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wsCZG7z6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hlvh83odvuzjfmk3ljlx.png"></code>
+## 🚀 About Me
 
+I'm a Computer Science graduate passionate about solving real-world problems through software.
 
-📊 **this week i spent my time on:**
+I build scalable web applications, automation tools, and production-ready systems with a strong focus on:
 
+- Clean, maintainable code
+- System design & architecture
+- Performance optimization
+- Shipping fast without sacrificing quality
 
-<!-- 🚧 **my todoist stats:** -->
-<!-- TODO-IST:START -->
-<!-- 🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 301 tasks so far           
-⏳  Longest streak is 11 days -->
-<!-- TODO-IST:END -->
+My mission is simple: **use technology to build solutions that matter.**
 
+---
 
-📈 my github stats
+## 🛠 Tech Stack
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ead8&show_icons=true&theme=gotham" alt="ebisadugo" />
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
+### ⚙️ Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
+### 🗄 Databases & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ead8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ead8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💼 Open to Work
+
+Available for:
+
+- Freelance projects
+- Contract roles
+- Startup collaborations
+- Automation & AI-powered systems
+
+📩 Reach me at: **eabisaadw@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building things that automate boring work — because software should work for you.
+
+---
+
+⭐️ From [ead8](https://github.com/ead8)
